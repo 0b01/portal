@@ -63,7 +63,7 @@ Code trace:
 
 ###**Portal 2**
 
-The following code prints an **ö** ((O with diaeresis))[http://en.wikipedia.org/wiki/%C3%96]
+The following code prints an **Ö** (O with diaeresis)[http://en.wikipedia.org/wiki/%C3%96]
 ```
 O++++++o----}}o]]O.
 ```
