@@ -13,8 +13,8 @@ Portal is an esoteric language that loosely implements the [Wang B-Machine](http
 | -           | Decrement the memory cell under the pointer                             |
 | .           | Output the character signified by the cell at the pointer               |
 | ,           | Input a character and store it in the cell at the pointer               |
-| **[**         | **Move the first portal to the right**                                      |
-| **]**         | **Move the last portal to the left**                                        |
+| **]**         | **Move the first portal to the right**                                      |
+| **[**         | **Move the last portal to the left**                                        |
 
 ## Example
 
