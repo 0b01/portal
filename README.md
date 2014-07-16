@@ -1,24 +1,24 @@
 #Portal
 
-Portal is an esoteric language that loosely implements the [Wang B-Machine](http://en.wikipedia.org/wiki/Wang_B-machine). It is, you guessed it, name after the video game and namesake *Portal*.
+Portal is an esoteric language that loosely implements the [Wang B-Machine](http://en.wikipedia.org/wiki/Wang_B-machine). It is, you guessed it, named after the video game and namesake **Portal**.
 
 ## What is this Portal language?
 
 | Portal      | Description                                                             |
 |:---------:  | :-----------------------------------------------------------------------|
-| *o*         | Move the pointer to the other portal                                    |
+| **o**         | **Move the pointer to the other portal**                                    |
 | >           | Move the pointer to the right                                           |
 | <           | Move the pointer to the left                                            |
 | +           | Increment the memory cell under the pointer                             |
 | -           | Decrement the memory cell under the pointer                             |
 | .           | Output the character signified by the cell at the pointer               |
 | ,           | Input a character and store it in the cell at the pointer               |
-| *[*         | Move the first portal to the right                                      |
-| *]*         | Move the last portal to the left                                        |
+| **[**         | **Move the first portal to the right**                                      |
+| **]**         | **Move the last portal to the left**                                        |
 
 ## Example
 
-Prints an ampersand:
+Prints an ampersand(&):
 ```
 +++++++++++++o+++++]]]]]o++++++++++++++++++++. 
 ```
@@ -92,4 +92,3 @@ If you can help figure out a way to print the ubiquitous "Hello World", you will
 # Acknowledgement
 
 The python interpreter is a fork of [pocmo/Python-Brainfuck](https://github.com/pocmo/Python-Brainfuck).
-:wq
