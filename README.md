@@ -61,7 +61,9 @@ Code trace:
 ++++++++++++++++++]]]]]o++++++++++++++++++++.
 ```
 
-###**Portal 2**: Prints an (O with diaeresis)[http://en.wikipedia.org/wiki/%C3%96]
+###**Portal 2**
+
+The following code prints an **ö** ((O with diaeresis))[http://en.wikipedia.org/wiki/%C3%96]
 ```
 O++++++o----}}o]]O.
 ```
@@ -107,7 +109,7 @@ O++++++o----}}o]]O.
 ++++++o-O---}}o]]O.
 ++++++o-O---}}o]]O.
 ```
-A little cönfusing?
+A little cönfused? eh?
 
 ## Run
 
