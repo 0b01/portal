@@ -31,6 +31,7 @@ Portal is an esoteric language that loosely implements the [Wang B-Machine](http
 | **}**         | **Move the first O portal to the right**                                      |
 | **{**         | **Move the last O portal to the left**                                        |
 
+Important note: A pointer does not go in the a portal on the first pass. Check the examples.
 
 ## Example
 
