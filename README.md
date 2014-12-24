@@ -1,6 +1,6 @@
 #Portal
 
-Portal is an esoteric language that loosely implements the [Wang B-Machine](http://en.wikipedia.org/wiki/Wang_B-machine). It is, you guessed it, named after the video game and namesake **Portal**.
+Portal is an esoteric language that loosely implements the [Wang B-Machine](http://en.wikipedia.org/wiki/Wang_B-machine).
 
 ## What is this Portal language?
 
