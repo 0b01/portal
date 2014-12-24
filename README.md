@@ -110,7 +110,6 @@ O++++++o----}}o]]O.
 ++++++o-O---}}o]]O.
 ++++++o-O---}}o]]O.
 ```
-A little cönfused? eh?
 
 ## Run
 
@@ -121,7 +120,7 @@ $  ./portal2.py [filename]
 
 # Help wanted
 
-If you can help figure out an idiosyncratic way to print the ubiquitous "Hello World", you will be the first one to program on a Wang B-Machine.
+How do I print Hello World?
 
 
 # Acknowledgement
